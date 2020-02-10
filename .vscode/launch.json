@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calc",
+            "request": "launch",
+            "mainClass": "Calc",
+            "projectName": "Java-progr_6c9f7366"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Perfect",
+            "request": "launch",
+            "mainClass": "Perfect",
+            "projectName": "Java-progr_6c9f7366"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "Java-progr_6c9f7366"
+        }
+    ]
+}
