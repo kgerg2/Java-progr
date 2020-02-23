@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Sqrt2",
+            "request": "launch",
+            "mainClass": "Sqrt2",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - E",
+            "request": "launch",
+            "mainClass": "E",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Odd",
+            "request": "launch",
+            "mainClass": "Odd",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Calc",
             "request": "launch",
             "mainClass": "Calc",
