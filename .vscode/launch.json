@@ -29,6 +29,12 @@
             "projectName": "Java-progr_447bcad2"
         },
         {
+            "name": "CodeLens (Launch) - GCD",
+            "request": "launch",
+            "mainClass": "GCD",
+            "projectName": "Java-progr_6c9f7366"
+        },
+        {
             "type": "java",
             "name": "CodeLens (Launch) - Calc",
             "request": "launch",
