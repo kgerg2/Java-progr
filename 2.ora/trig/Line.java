@@ -5,6 +5,12 @@ public class Line {
     private double b;
     private double c;
 
+    public Line(double a, double b, double c) {
+        this.a = a;
+        this.b = b;
+        this.c = c;
+    }
+
     public boolean contains(Point p) {
         return a * p.getX() + b * p.getY() == c;
     }

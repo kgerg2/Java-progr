@@ -2,6 +2,26 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Polygon",
+            "request": "launch",
+            "mainClass": "trig.Polygon",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "trig.Application"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "Application",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Sqrt2",
             "request": "launch",
             "mainClass": "Sqrt2",

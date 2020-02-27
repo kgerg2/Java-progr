@@ -1,4 +1,4 @@
-import trig;
+import trig.*;
 
 public class Distance {
     public static void main(String[] args) {
