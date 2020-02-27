@@ -2,23 +2,31 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Polygon",
+            "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "trig.Polygon",
-            "projectName": "Java-progr_447bcad2"
+            "mainClass": "person.Main",
+            "projectName": "Java-progr_6c9f7366"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Application",
+            "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "trig.Application"
+            "mainClass": "Main",
+            "projectName": "Java-progr_6c9f7366"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - Application",
+            "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "Application",
-            "projectName": "Java-progr_447bcad2"
+            "mainClass": "f1.Main",
+            "projectName": "Java-progr_6c9f7366"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - arr",
+            "request": "launch",
+            "mainClass": "arr",
+            "projectName": "Java-progr_6c9f7366"
         },
         {
             "type": "java",
