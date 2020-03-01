@@ -4,6 +4,20 @@
             "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
+            "mainClass": "library.Main",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IterWord",
+            "request": "launch",
+            "mainClass": "stringutils.IterWord",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
             "mainClass": "person.Main",
             "projectName": "Java-progr_6c9f7366"
         },
