@@ -57,6 +57,7 @@
             "projectName": "Java-progr_447bcad2"
         },
         {
+            "type": "java",
             "name": "CodeLens (Launch) - GCD",
             "request": "launch",
             "mainClass": "GCD",
