@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IO4",
+            "request": "launch",
+            "mainClass": "IO4",
+            "projectName": "Java-progr_6c9f7366"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IO2",
+            "request": "launch",
+            "mainClass": "IO2",
+            "projectName": "Java-progr_6c9f7366"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IO1",
+            "request": "launch",
+            "mainClass": "IO1",
+            "projectName": "Java-progr_6c9f7366"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
             "mainClass": "library.Main",
