@@ -8,5 +8,6 @@ public class Main {
         Matrix id = Matrix.id(3);
         System.out.println(id);
         System.out.println(m.add(id));
+        System.out.println(m.sub(m));
     }
 }

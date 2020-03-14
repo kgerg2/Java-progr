@@ -43,6 +43,16 @@ public class Matrix {
         return new Matrix(res);
     }
 
+    public Matrix sub(Matrix that) {
+        float[][] res = new float[m.length][m[0].length];
+        for (int i = 0; i < res.length; i++) {
+            for (int j = 0; j < res[i].length; j++) {
+                res[i][j] = this.m[i][j] - that.m[i][j];
+            }
+        }
+        return new Matrix(res);
+    }
+
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder();
