@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - IO6",
+            "request": "launch",
+            "mainClass": "IO6",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IO5",
+            "request": "launch",
+            "mainClass": "IO5",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - IO4",
             "request": "launch",
             "mainClass": "IO4",

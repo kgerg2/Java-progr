@@ -16,15 +16,23 @@ public class IO4 {
             }
             int sklen = Integer.parseInt(args[0]);
             Scanner sc = new Scanner(System.in);
-            int len = sc.nextInt();
+            int len;
+            try {
+                len = sc.nextInt();
+            } catch (NoSuchElementException nsee) {
+                throw new NoSuchElementException("Egy számot kell megadni.");
+            }    
+            System.out.println(len);
             for (int i = 0; i < len; i++) {
-                System.out.println(br.read());
+                System.out.println(Character.toChars(br.read()));
                 br.skip(sklen);
             }
         } catch (IOException ioe) {
             ioe.printStackTrace();
         } catch (NoSuchElementException nsee) {
             System.out.println(nsee.getMessage());
+        } catch (NumberFormatException nfe) {
+            System.out.println("A parancssori argumentum egy egész szám kell, hogy legyen.");
         }
     }
 }

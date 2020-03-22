@@ -1,4 +1,8 @@
-
-
-
-9
+1 is an oddnumber
+2 is an evennumber
+3 is an oddnumber
+65 is an oddnumber
+230 is an evennumber
+4 is an evennumber
+5 is an oddnumber
+423 is an oddnumber
