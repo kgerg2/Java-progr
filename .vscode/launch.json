@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SwapTest",
+            "request": "launch",
+            "mainClass": "SwapTest",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TelevisionTest",
+            "request": "launch",
+            "mainClass": "TelevisionTest",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "pizza.Main",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Auto",
+            "request": "launch",
+            "mainClass": "auto.Auto",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Teszt",
+            "request": "launch",
+            "mainClass": "Teszt",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - IO6",
             "request": "launch",
             "mainClass": "IO6",

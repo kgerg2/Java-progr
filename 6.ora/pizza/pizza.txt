@@ -1,0 +1,4 @@
+32 beef,corn,ham,cheese 10:30
+16 salami,mushroom,cheese 12:70
+24 tomato,pork 13:00
+50 tomato,cheese 18:50
