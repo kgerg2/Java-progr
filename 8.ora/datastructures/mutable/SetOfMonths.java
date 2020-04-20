@@ -88,7 +88,6 @@ public class SetOfMonths {
             SetOfMonths s2 = SetOfMonths.read("setExample.dat");
             System.out.println(s2);
         } catch (Exception e) {
-            //TODO: handle exception
         }
     }
 }

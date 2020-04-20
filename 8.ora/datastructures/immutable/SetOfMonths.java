@@ -21,7 +21,7 @@ public final class SetOfMonths {
     }
 
     public SetOfMonths add(Month month) {
-        return new SetOfMonths(bitmask | (1 << month.ordinal()));
+        return new SetOfMonths((short) (bitmask | (1 << month.ordinal())));
     }
 
     public SetOfMonths add(String[] months) {
@@ -37,7 +37,7 @@ public final class SetOfMonths {
     }
 
     public SetOfMonths remove(Month month) {
-        return new SetOfMonths(bitmask & ~(1 << month.ordinal()));
+        return new SetOfMonths((short) (bitmask & ~(1 << month.ordinal())));
     }
 
     @Override
@@ -87,7 +87,6 @@ public final class SetOfMonths {
             SetOfMonths s2 = SetOfMonths.read("setExample.dat");
             System.out.println(s2);
         } catch (Exception e) {
-            //TODO: handle exception
         }
     }
 }

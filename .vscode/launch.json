@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Simulator",
+            "request": "launch",
+            "mainClass": "Simulator",
+            "projectName": "Java-progr_447bcad2"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SetOfMonths",
             "request": "launch",
             "mainClass": "datastructures.mutable.SetOfMonths",
